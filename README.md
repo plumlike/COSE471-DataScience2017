@@ -14,4 +14,4 @@ $ python jieun.py golf.txt
 
 ### Development issue
     Training data can be expanded if you add news URL to category folder.
-    Using 'pos tagging' method will upgrade the accuracy of classifying.
+    Using 'pos tagging' method will upgrade the accuracy of classifying articles.
