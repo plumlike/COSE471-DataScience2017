@@ -5,8 +5,8 @@ COSE471 Data Science @ Korea Univ, Spring 2017
 Classify CNN News topic
 
 ### Usage  
-1. Make sure to locate the 'category' folder(for training) to where jieun.py (exe file) is located<br>
-2. Run **anaconda prompt** (nltk, numpy, beautifulsoup, matplotlib must already be installed)<br>
+1. Make sure the'category' folder(for training) and python script file(jieun.py) be in the same directory<br>
+2. Run **anaconda prompt** (nltk, numpy, beautifulsoup, matplotlib must be installed)<br>
 ```shell                   
 $ python jieun.py golf.txt 
 ```
